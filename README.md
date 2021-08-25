@@ -21,7 +21,7 @@ Troubleshooting:
 
 3. Graphical Issues - Just Visual. Anything else, I am unaware of. I have no means or understanding of going about fixing this at the current moment. I run it on Jabo's Plugin for the best consistency. So that is what I will reccomend. 
 
-Credits-
+Credits:
 Texture Rescales - Robin & ICUP7612 Edits
 Music - Rare
 Everything Else - Squashua Gonzalez from SquashMVP
