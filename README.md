@@ -25,7 +25,7 @@ Make sure to change the Memory Size from 4MB to 8MB under configs in the rom set
 
 Troubleshooting:
 1. Incorrect file type:
-  - You can rename the output rom file to the above to fix this. Just make sure include .z64 at the end of its name if it does not already. That is the important part. That .z64 though. 
+  - You can rename the output rom file to the above to fix this. Just make sure include .z64 at the end of its name if it does not already. That is the important part. That .z64 though. By the way, I have minimal experience and may possibly have no idea what I'm talking about.
 
 2. "Fatal Error: Emulation Stopped": 
   - Game Crashed. Duh! It happens only on specific area on the Platformer area in Grand Piano (specifically on the first shadow on the first rocky ramp after the first four clouds. That shadow thinks its water.) Any other areas, I am unaware of. 
