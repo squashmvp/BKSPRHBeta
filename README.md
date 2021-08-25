@@ -36,5 +36,5 @@ Troubleshooting:
 
 Credits:
 Texture Rescales - Robin & ICUP7612 Edits
-Music - Rare
+Music, Characters, and Original Game - Rare
 Everything Else - Squashua Gonzalez from SquashMVP
