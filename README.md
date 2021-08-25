@@ -9,6 +9,7 @@ What makes this a Beta? Here, sit down. I'll tell you.
 5. Grunty Text still plays in Hub World
 6. No Boss Battle in What Boat
 7. Main Surprise at end held until alpha due to Jiggy implementation bugs
+8. Note door on Grand Piano doesn't work. Let's all just pretend its a 100 Note Door. 
 
 To apply this patch. Use the online patcher noted below or proceed with your own personal preferences.
 
