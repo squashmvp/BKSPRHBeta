@@ -1,6 +1,7 @@
 # BKSPRHBeta
 Beta of "Practice Romhack"
 
+What Makes this a Beta? Here, sit down. I'll tell you.
 1. There are notes in the first world to increase playability. This is due to lack of Challenges. Robo-City will not have notes in the final game. 
 2. Water is buggy. Removed it in some areas for this version.
 3. Texture issues in Grand Piano sections due to scale
