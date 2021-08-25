@@ -15,13 +15,18 @@ To apply this patch. Use the online patcher noted below or proceed with your own
 
 https://www.hack64.net/tools/patcher.php
 
+Make sure to change the Memory Size from 4MB to 8MB under configs in the rom settings!
+
 Troubleshooting:
 1. Incorrect file type:
   - You can rename the output rom file to the above to fix this. Just make sure include .z64 at the end of its name if it does not already. That is the important part. That .z64 though. 
 
-2. "Fatal Error: Emulation Stopped" - Game Crashed. Duh! It happens only on specific area on the Platformer area in Grand Piano (specifically on the first shadow on the first rocky ramp after the first four clouds. That shadow thinks its water.) Any other areas, I am unaware of. 
+2. "Fatal Error: Emulation Stopped": 
+  - Game Crashed. Duh! It happens only on specific area on the Platformer area in Grand Piano (specifically on the first shadow on the first rocky ramp after the first four clouds. That shadow thinks its water.) Any other areas, I am unaware of. 
+  - Did you change the Memory size from 4mb to 8mb under configs in the rom settings?
 
-3. Graphical Issues - Just Visual. Anything else, I am unaware of. I have no means or understanding of going about fixing this at the current moment. I run it on Jabo's Plugin for the best consistency. So that is what I will reccomend. 
+3. Graphical Issues: 
+  - Just Visual. Anything else, I am unaware of. I have no means or understanding of going about fixing this at the current moment. I run it on Jabo's Plugin for the best consistency. So that is what I will reccomend. 
 
 Credits:
 Texture Rescales - Robin & ICUP7612 Edits
