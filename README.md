@@ -32,7 +32,7 @@ Troubleshooting:
   - Did you change the Memory size from 4mb to 8mb under configs in the rom settings?
 
 3. Graphical Issues: 
-  - Just Visual. Anything else, I am unaware of. I have no means or understanding of going about fixing this at the current moment. I run it on Jabo's Plugin for the best consistency. So that is what I will reccomend. 
+  - Just Visual. Anything else, I am unaware of. I have no means or understanding of going about fixing this at the current moment. I run it on Jabo's Plugin for the best consistency. So that is what I will recommend. 
 
 Credits:
 Texture Rescales - Robin & ICUP7612 Edits
