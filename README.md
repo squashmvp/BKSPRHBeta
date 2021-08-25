@@ -9,7 +9,9 @@ Beta of "Practice Romhack"
 6. No Boss Battle in What Boat
 7. Main Surprise at end held until alpha due to Jiggy implementation bugs
 
-To apply this patch. Use an online patcher or your own personal preference. 
+To apply this patch. Use the online patcher noted below or proceed with your own personal preferences.
+
+https://www.hack64.net/tools/patcher.php
 
 Troubleshooting:
 1. Incorrect file type:
